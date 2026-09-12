@@ -76,5 +76,5 @@ The predictions may be inaccurate because they depend on the quality, completene
 
 For real-world battery health or safety assessments, users should consult a **qualified automotive or battery professional** and use appropriate diagnostic equipment and manufacturer guidance.
 
-The uploaded CSV should contain these columns for the prediction to work correctly.
 
+The uploaded CSV should contain these columns for the prediction to work correct
