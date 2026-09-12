@@ -1,5 +1,4 @@
-EV-Battery-Health-Assistant
-🔋 EV Battery Health Assistant
+*🔋 EV Battery Health Assistant
 
 An ML-powered Streamlit application that analyzes electric vehicle battery logs and predicts battery degradation based on key battery and charging characteristics.
 
