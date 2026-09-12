@@ -55,11 +55,26 @@ Charging Duration (min)	Charging duration
 Efficiency (%)	Charging efficiency
 Charging Cycles	Number of charging cycles
 
+## ⚠️ Disclaimer
+
+This project is intended **for educational and demonstration purposes only**.
+
+The battery degradation predictions and analysis provided by this application are generated using a machine-learning model and **should not be considered professional engineering, automotive, battery-health, maintenance, safety, or diagnostic advice**.
+
+The results should **not** be used as the sole basis for decisions involving:
+
+* EV battery safety
+* Battery repair or replacement
+* Vehicle maintenance
+* Commercial or financial decisions
+* Safety-critical applications
+* Determining whether a battery is safe to operate
+
+The predictions may be inaccurate because they depend on the quality, completeness, and characteristics of the input data and the limitations of the underlying machine-learning model.
+
+**The author makes no guarantees regarding the accuracy, reliability, or suitability of the results and assumes no responsibility for any loss, damage, injury, or other consequences resulting from the use or misuse of this project.**
+
+For real-world battery health or safety assessments, users should consult a **qualified automotive or battery professional** and use appropriate diagnostic equipment and manufacturer guidance.
+
 The uploaded CSV should contain these columns for the prediction to work correctly.
 
-🛠️ Technologies Used
-Python
-Streamlit — interactive web application
-Pandas — data processing and analysis
-Joblib — loading the trained machine-learning model
-Machine Learning — battery degradation prediction
