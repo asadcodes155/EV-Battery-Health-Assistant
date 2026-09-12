@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain-google-genai
+streamlit
+langchain-community
+langchain-google-community
+langchain-text-splitters
+scikit-learn
+joblib
